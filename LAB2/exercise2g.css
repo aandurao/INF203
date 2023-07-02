@@ -1,0 +1,32 @@
+#div_1 {
+	border: 1px solid black;
+	padding: 11px;
+}
+
+#div_2 img {
+	float:left;
+	margin-right: 8px;
+	margin-bottom: 8px;
+}
+
+#div_2 {
+	overflow: hidden;
+}
+
+#div_3 {
+	margin: 10px;
+	background-color: lightslategrey;
+}
+
+.front {
+	position: absolute;
+	z-index: 1;
+	top: 129px;
+	left: 129px;
+	width: 425px;
+	height: 425px;
+}
+
+.front:hover {
+	color: crimson;
+}

@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      "time": 0,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/git/"
+    },
+    {
+      "time": 2,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/inf203/js.html#/equality"
+    },
+    {
+      "time": 4,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/ssh/terminal.html"
+    },
+    {
+      "time": 6,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/inf203/svg.html#/basic-shapes"
+    },
+    {
+      "time": 8,
+      "url": "https://inf103.telecom-paris.fr/inf103/JavaClassesObjets.html#slide22"
+    },
+    {
+      "time": 10,
+      "url": ""
+    }
+  ]
+}
